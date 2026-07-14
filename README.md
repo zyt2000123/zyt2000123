@@ -5,7 +5,7 @@
   </a>
 </p>
 
-Engineering leader & builder. Most of my time goes into **AI agents and multi-agent systems** — turning LLMs into systems that do real work.
+Java backend engineer turned AI agent explorer. Building with LLMs — from backend systems to intelligent agents.
 
 ## 🔭 What I'm into
 
@@ -30,52 +30,8 @@ Daily drivers: **Java & Python**. Career arc: Backend → Full-stack → AI/agen
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
 </p>
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=zyt2000123&theme=flat&no-frame=true&no-bg=true&margin-w=4&column=7" />
-</p>
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zyt2000123&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zyt2000123&layout=compact&langs_count=8&hide_border=true" />
-</p>
-
 ## 🔥 Streak Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=zyt2000123&hide_border=true" />
-</p>
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/zyt2000123/zyt2000123/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
-## 🔥 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zyt2000123&theme=github-light&hide_border=true&area=true" />
-</p>
-
-## 📌 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/zyt2000123/system">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zyt2000123&repo=system&hide_border=true" />
-  </a>
-  <!-- 加更多 pinned repos:
-  <a href="https://github.com/zyt2000123/REPO_NAME">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zyt2000123&repo=REPO_NAME&hide_border=true" />
-  </a>
-  -->
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=zyt2000123&color=blue&style=flat-square" alt="Profile views" />
 </p>
