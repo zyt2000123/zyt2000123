@@ -30,13 +30,6 @@ Daily drivers: **Java & Python**. Career arc: Backend → Full-stack → AI/agen
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
 </p>
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zyt2000123&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zyt2000123&layout=compact&langs_count=8&hide_border=true" />
-</p>
-
 ## 🐍 Contribution Snake
 
 <p align="center">
