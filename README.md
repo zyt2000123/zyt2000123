@@ -30,8 +30,19 @@ Daily drivers: **Java & Python**. Career arc: Backend → Full-stack → AI/agen
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
 </p>
 
-## 🔥 Streak Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zyt2000123&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zyt2000123&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zyt2000123&layout=compact&langs_count=8&hide_border=true" />
+</p>
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zyt2000123/zyt2000123/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zyt2000123/zyt2000123/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/zyt2000123/zyt2000123/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
