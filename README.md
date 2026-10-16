@@ -11,7 +11,7 @@ Java backend engineer turned AI agent explorer. Building with LLMs — from back
 
 - 🤖 AI agents & multi-agent orchestration
 - ⚒️ Agent / LLM developer tooling & workflows
-- ☕ Backend & infra in Java / Python
+- ☕ Backend in Java / Python
 
 ## 🛠 Tech I reach for
 
